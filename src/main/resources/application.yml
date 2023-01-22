@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: routing_service
+country:
+  url : 'https://raw.githubusercontent.com/mledoze/countries/master/countries.json'
+server:
+  port: 9000
